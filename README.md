@@ -35,6 +35,9 @@ I have deployed this model to Azure Platform
 5. Pandas,Numpy
 6. Amazon Web Services
 7. Flask and others
+8.docker
+9.circleci
+
 
 # Check out HLD,LLD for more info
 
