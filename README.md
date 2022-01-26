@@ -23,7 +23,7 @@ Results section will show you the results obtained and if it got any error it wi
 U can view logs section to checck what are the errors that occured.
 
 # Project Interface
-I have deployed this model to Azure Platform
+I have deployed this model to Heroku Platform link -https://flightfarepridction.herokuapp.com/
 ##### here user can enter required information 
 !![Screenshot (175)](https://user-images.githubusercontent.com/58151564/150138725-7deaeffe-c228-4e79-a2ae-32a521816dc2.png)
 
